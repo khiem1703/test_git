@@ -1,7 +1,4 @@
 lan 1
 alpha
-<<<<<<< HEAD
 main
-=======
-gamma
->>>>>>> gamma
+abc
