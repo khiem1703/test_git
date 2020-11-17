@@ -1,2 +1,2 @@
 lan 1
-main
+alpha
