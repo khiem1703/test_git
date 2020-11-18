@@ -2,3 +2,5 @@ lan 1
 alpha
 main
 ngoc
+sua1
+sua2
