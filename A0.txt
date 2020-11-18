@@ -2,4 +2,10 @@ lan 1
 alpha
 main
 ngoc
+<<<<<<< HEAD
 khiem
+=======
+sua1
+sua2
+hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+>>>>>>> Ngoc2
